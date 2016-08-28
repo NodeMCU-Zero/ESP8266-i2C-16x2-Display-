@@ -10,7 +10,7 @@ Common Gorund (5V and NodeMcu)
 
 #include <Wire.h>  // This library is already built in to the Arduino IDE
 #include <LiquidCrystal_I2C.h> //Download :: https://codeload.github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library/zip/master
-LiquidCrystal_I2C lcd(0x3F, 20, 4);
+LiquidCrystal_I2C lcd(0x27,20,4);
 
 void setup()
 {
