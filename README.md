@@ -7,3 +7,7 @@
 Connect 16x2 Display to ESp Wroom and the NodeMcu development kit 
 
 # Buy: 
+```sh
+http://store.algobel.com
+http://skill.algobel.com
+```
